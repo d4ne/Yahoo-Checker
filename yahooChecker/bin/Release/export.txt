@@ -1,0 +1,20 @@
+Handle: Alternate | Result: Exist
+Handle: After | Result: Exist
+Handle: Axe | Result: Error
+Handle: Anti | Result: Exist
+Handle: Art | Result: Error
+Handle: Amp | Result: Error
+Handle: Ant | Result: Error
+Handle: Aunt | Result: Exist
+Handle: Artsy | Result: Exist
+Handle: Accuracy | Result: Exist
+Handle: Anus | Result: Exist
+Handle: Always | Result: Exist
+Handle: dane | Result: Exist
+Handle: depends | Result: Doesnt exist
+Handle: Awkward | Result: Exist
+Handle: Ask | Result: Error
+Handle: Age | Result: Error
+Handle: Ace | Result: Error
+Handle: Aviator | Result: Exist
+Handle: Angel | Result: Exist
